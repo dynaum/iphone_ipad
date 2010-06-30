@@ -1,0 +1,997 @@
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 22:48:11
+
+AbstractController::ActionNotFound (The action 'index' could not be found):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 22:53:18
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (15.1ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:06:46
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 29ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:06:48
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2010-06-29 23:06:56
+
+ActionController::RoutingError (No route matches "/index.html"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.html" for 127.0.0.1 at 2010-06-29 23:07:09
+
+ActionController::RoutingError (No route matches "/home/index.html"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:07:13
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:08:12
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:08:14
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:08:15
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:08:16
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:08:17
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:08:44
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (29.1ms)
+Completed 200 OK in 33ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.hmtl" for 127.0.0.1 at 2010-06-29 23:08:48
+
+ActionController::RoutingError (No route matches "/home/index.hmtl"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.html" for 127.0.0.1 at 2010-06-29 23:08:52
+
+ActionController::RoutingError (No route matches "/home/index.html"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:08:57
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.json" for 127.0.0.1 at 2010-06-29 23:09:04
+
+ActionController::RoutingError (No route matches "/home/index.json"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.haml" for 127.0.0.1 at 2010-06-29 23:09:08
+
+ActionController::RoutingError (No route matches "/home/index.haml"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:09:15
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:10
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:12
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:13
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:13
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:13
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:14
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:14
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:14
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:14
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:14
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:15
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:15
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:15
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:15
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:15
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:16
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:16
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:16
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:16
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:13:33
+
+ActionController::RoutingError (No route matches "/home/index.ipad"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:13:53
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:17:02
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:17:04
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:17:04
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:17:05
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:27:48
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:27:49
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:28:00
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 46ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:28:15
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:31:19
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:31:21
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:31:47
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:31:50
+
+ActionController::RoutingError (No route matches "/home/index.iphone"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:32:50
+
+RegexpError (
+parse error on value ")" (RPAREN)):
+  config/routes.rb:57
+  config/routes.rb:1
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.1ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:32:57
+
+NameError (uninitialized constant ApplicationController::Rail):
+  app/controllers/application_controller.rb:15:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.8ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:33:07
+
+ArgumentError (wrong number of arguments (1 for 0)):
+  app/controllers/application_controller.rb:15:in `logger'
+  app/controllers/application_controller.rb:15:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.9ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:33:19
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.5ms)
+Completed 200 OK in 62ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:35:34
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:35:36
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:35:54
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 89ms (Views: 88.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:36:01
+  Processing by HomeController#index as IPAD
+
+ActionView::MissingTemplate (Missing template home/index with {:handlers=>[:rhtml, :rxml, :builder, :erb, :rjs], :formats=>[:ipad], :locale=>[:en, :en]} in view paths "/Users/dynaum/Documents/Projetos/iphone_ipad/app/views"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.7ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:38:34
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:38:40
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 35ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:41:09
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 31ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:41:10
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:41:13
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:41:14
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 10ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:41:54
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:41:56
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.5ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:41:59
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 43ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:42:04
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:42:09
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:43:22
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (69.1ms)
+Completed 200 OK in 186ms (Views: 185.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:43:25
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (49.3ms)
+Completed 200 OK in 88ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:43:36
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:45:00
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:45:09
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:45:22
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.5ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:45:27
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:45:31
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:46:25
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:46:26
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:46:27
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:47:00
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 19ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:47:09
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.5ms)
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:48:26
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.iphone" for 127.0.0.1 at 2010-06-29 23:48:28
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.5ms)
+Completed 200 OK in 10ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:48:33
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:48:36
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 9ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:48:37
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:49:08
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:49:09
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:49:10
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:49:12
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:49:13
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (127.7ms)
+Completed 200 OK in 132ms (Views: 131.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:52:29
+
+SyntaxError (/Users/dynaum/Documents/Projetos/iphone_ipad/app/controllers/application_controller.rb:15: syntax error, unexpected ')', expecting kEND):
+  app/controllers/home_controller.rb:1
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (48.9ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:52:34
+Processing the request...
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.3ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:52:44
+Processing the request...
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 24ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:53:16
+
+SyntaxError (/Users/dynaum/Documents/Projetos/iphone_ipad/app/controllers/application_controller.rb:16: syntax error, unexpected $undefined
+    logger.info "Processing the request...#{\1}"
+                                             ^):
+  app/controllers/home_controller.rb:1
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.1ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:55:31
+Processing the request... 
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:55:42
+Processing the request... 
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:56:03
+Processing the request...-
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:56:29
+Processing the request(Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.70 Safari/533.4)...-
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:56:48
+Processing the request(Mozilla/5.0 (iPhone Simulator; U; CPU iPhone OS 4_0 like Mac OS X; pt-br) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7)...iPhone-iPhone Simulator; U; CPU iPhone OS 4_0 like Mac OS X; pt-br) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:57:22
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index.ipad" for 127.0.0.1 at 2010-06-29 23:57:24
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.5ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:57:26
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:57:32
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:57:33
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:57:56
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.8ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:58:45
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:58:47
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:58:48
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:58:49
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-29 23:58:49
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:58:52
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (119.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.8ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (128.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:58:53
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:58:54
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:59:19
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-29 23:59:21
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.104 at 2010-06-30 00:00:33
+  Processing by HomeController#index as IPAD
+Rendered home/index.ipad.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:04
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  app/controllers/application_controller.rb:16:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_or_ipad_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.4ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:05
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  app/controllers/application_controller.rb:16:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_or_ipad_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.7ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:05
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  app/controllers/application_controller.rb:16:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_or_ipad_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (7.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:05
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  app/controllers/application_controller.rb:16:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_or_ipad_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (163.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (171.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:06
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  app/controllers/application_controller.rb:16:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_or_ipad_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.7ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:06
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  app/controllers/application_controller.rb:16:in `is_iphone_or_ipad_request?'
+  app/controllers/application_controller.rb:8:in `set_iphone_or_ipad_format'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0.beta3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.4ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:41
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:42
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:43
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2010-06-30 00:01:43
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-30 00:02:05
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-30 00:02:06
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-30 00:02:07
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2010-06-30 00:02:07
+  Processing by HomeController#index as IPHONE
+Rendered home/index.iphone.erb (0.4ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
